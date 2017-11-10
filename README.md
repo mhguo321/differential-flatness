@@ -1,6 +1,6 @@
 ## Name: differential flatness function
 
-Version:Matlab2017a
+Version: Matlab R2017a
 
 by Minhuan
 
